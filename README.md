@@ -1,0 +1,2 @@
+# Real-Time-Sign-Language-Communication-and-Translation-Application-for-Deaf-and-Mute-Individuals.
+The project titled "Realtime Sign Language Communication and Translation Application for Deaf and Mute Individuals" focuses on developing an intelligent and accessible mobile application that enables real-time bidirectional communication between hearing individuals and those who are deaf or mute, using Indian Sign Language (ISL). 
